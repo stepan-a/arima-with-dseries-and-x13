@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rm examples/*.err examples/*.est examples/*.lks examples/*.log examples/*.out examples/*.rsd examples/*.spc
